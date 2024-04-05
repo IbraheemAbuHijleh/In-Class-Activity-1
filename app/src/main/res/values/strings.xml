@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClassActivity#1</string>
+    <string-array name="Sippemer">
+        <item>Computer Since</item>
+        <item>Computer Engineer</item>
+        <item>Acct</item>
+    </string-array>
+</resources>
